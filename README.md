@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/250" alt="Divizyon Logo" width="250">
+  <img src="https://i0.wp.com/www.divizyon.org/content/uploads/2024/03/Divizyon-logo.png?w=1170&ssl=1" alt="Divizyon Logo" width="250">
 </p>
 
 # 🌟 Divizyon  
