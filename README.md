@@ -11,7 +11,7 @@
 
 Konya’daki yerleşkesinde **yüksek teknoloji erişimi** sağlarken, çevrimiçi platformları aracılığıyla **dünyanın dört bir yanından erişim imkanı sunar**.  
 
-🛤️ **Divizyon, keşfetmek, öğrenmek, yapmak ve başarmak isteyen herkes için bir topluluktan çok daha fazlası; bir yolculuktur.**  
+**Divizyon, keşfetmek, öğrenmek, yapmak ve başarmak isteyen herkes için bir topluluktan çok daha fazlası; bir yolculuktur.**  
 
 ---
 
