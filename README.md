@@ -2,9 +2,6 @@
   <img src="https://i0.wp.com/www.divizyon.org/content/uploads/2024/03/Divizyon-logo.png?w=1170&ssl=1" alt="Divizyon Logo" width="250">
 </p>
 
-# 🌟 Divizyon  
-
-## 🚀 Hakkımızda  
 
 **Divizyon**, Konya Büyükşehir Belediyesi’nin bölgesel kalkınma ve inovasyon stratejisinin bir parçası olarak geliştirilmiş, yazılım ve dijital sanatlar alanında disiplinler arası iş birliği ve kolektif üretim süreçlerini destekleyen bir **açık inovasyon platformudur**.  
 
